@@ -1,0 +1,21 @@
+id: A3411B049
+title: Mañjuśrīvikrīḍitasūtra
+type: translation
+pechas:
+- I9A9F40FD
+- I3F770F6C
+- I09D5D8B4
+- IEB4FA481
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-08 15:14:17.015278
+  last_modified_at: 2023-02-08 15:14:17.015293
+alignment_to_base:
+  I9A9F40FD/C74C: E1E4
+  I3F770F6C/7DB7: E1E4
+  I09D5D8B4/CC79: E1E4
+  IEB4FA481/FE77: E1E4
